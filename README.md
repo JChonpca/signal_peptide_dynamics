@@ -1,0 +1,2 @@
+# signal_peptide_dynamics
+ZYL sequence is a novel signal peptide for secretion of recombinant proteins in Escherichia coli
